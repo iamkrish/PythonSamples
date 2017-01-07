@@ -1,4 +1,4 @@
 def PrintHello():
-    print("Hello world")
+    print("Hello universe")
 
 PrintHello()
